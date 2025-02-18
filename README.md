@@ -51,6 +51,3 @@
 
 
 
-## Hobby 👻
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=79f9cxfzjvdqcc0epx49hjunk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=79f9cxfzjvdqcc0epx49hjunk&redirect=true)
