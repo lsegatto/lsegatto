@@ -1,53 +1,92 @@
-# Hi there 👋 I'am Lucas Segatto Zampini 
-## Future SE Front - End
-![](https://komarev.com/ghpvc/?username=lsegattoo&color=blueviolet&style=flat&label=Visualizações)
+<h1 align="center">Hi there 👋 I'm Lucas Antonucci Segatto Zampini</h1>
 
+<h3 align="center">AI Engineer in Progress | Python | Automation | Intelligent Systems</h3>
 
-- 🏢 I’m currently working on **Grupo Binário**
-- 🌱 I’m currently learning **Computer Science**
-- 👯 I’m looking to collaborate on **Grupo Binário**
-- 🧑‍💻 I want to become a **_Front - end Software engineer_**
-- 🎮 My hobby is **playing games**
+<p align="center">
+  Turning ideas into intelligent solutions with code and AI.
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lsegattoo&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
-  ## Stacks 🚀
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-segatto-zampini-41b0171b8">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Antonucci%20Segatto%20Zampini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Based%20in-Brazil-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-6f42c1?style=for-the-badge" />
+</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## Tools 🔧
+## About Me
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+I'm passionate about technology and artificial intelligence, with a strong interest in building intelligent solutions that solve real-world problems. I'm currently focused on developing my skills in **Python**, **automation**, **APIs**, and **AI systems** as I grow toward becoming an **AI Engineer**.
 
-## Find Me 🌎
+- 🏢 I’m currently working at **Binario Net**
+- 🌱 I’m currently learning **Computer Science**, **Artificial Intelligence**, and **Python**
+- 🤝 I’m open to collaborating on **AI, automation, and technology**
+- 🧠 My goal is to become an **AI Engineer**
+- 🚀 I enjoy creating solutions that combine **logic, code, and innovation**
+- 🎮 Fun fact: I enjoy **playing games**
 
-![Linkedin :Lucas Segatto Zampini ](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-segatto-zampini-41b0171b8)
+---
 
-<br>
+## AI Stack
 
-<div style="width: 100%;margin: 0;padding:0">
-  <img src="https://github-readme-stats.vercel.app/api?username=lsegattoo&theme=dracula" style="width: 46%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-2ECC71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lsegattoo&theme=dracula" style="width: 50%">
-</div>
+---
+
+## Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## Career Focus
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ⚙️ Automation
+- 🔌 API Integrations
+- 🐍 Python Development
+- 🚀 Intelligent Systems
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lsegattoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=lsegattoo&theme=dracula" />
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsegattoo&layout=compact&theme=dracula" />
+</p>
+
+---
+
+## Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
